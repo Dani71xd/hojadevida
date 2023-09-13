@@ -1,0 +1,11 @@
+.centrar-textos{
+    text-align: center;
+}
+
+.justificar-textos{
+    text-align: justify;
+}
+
+body{
+    background-color: gray;
+}
